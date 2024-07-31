@@ -24,7 +24,7 @@
 const http = require('http');
 
 // Define the port number
-const PORT = 3000;
+const PORT = 6000;
 
 // Create an HTTP server
 const server = http.createServer((req, res) => {
